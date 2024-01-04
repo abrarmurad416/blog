@@ -120,7 +120,7 @@ blockquote {
 	border-left: 4px solid var(--accent);
 	padding: 0 0 0 20px;
 	margin: 0px;
-	font-size: 1.333em;
+	/* font-size: 1.333em; */
 }
 hr {
 	border: none;
@@ -152,3 +152,4 @@ hr {
 	/* added line to stop words getting smushed together (as they go onto seperate lines and some screen readers do not understand line feeds as a space */
 	white-space: nowrap;
 }
+
